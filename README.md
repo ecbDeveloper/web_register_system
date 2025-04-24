@@ -55,6 +55,3 @@ This is a user registration system with authentication and authorization, develo
    ```bash
    npm run dev
    ```
-
-## 🤝 Contribution
-Contributions are welcome! Feel free to open issues or submit pull requests. 💡
